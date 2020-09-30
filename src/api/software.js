@@ -1,5 +1,53 @@
 let softwareJson = [
     {
+        "img": "https://android-artworks.25pp.com/fs08/2020/09/27/7/110_bdde7389dec04e54cc4b7edb25508398_con_130x130.png",
+        "name": "  酷狗音乐VIP版    ",
+        "description": "  破姐豪华VIP特权，去除启动广告及音频广告去除更新所有歌曲免费试听和下载",
+        "downloanUrl": "https://91miandan.lanzoui.com/ifnN7h1mjsh"
+    },
+    {
+        "img": "https://p.e5n.com/up/2020-5/202051212118311.png",
+        "name": "  太阳能毁灭   ",
+        "description": "  星球毁灭模拟器",
+        "downloanUrl": "https://91miandan.lanzoui.com/isvw2h0pfpc"
+    },
+    {
+        "img": "https://p.e5n.com/up/2020-9/2020928133311843.png",
+        "name": "  充电提示音   ",
+        "description": "  充电，拨出都可以，支持自定义音屏，自带音屏不行可以自定义选择支持充电完成提示音",
+        "downloanUrl": "https://91miandan.lanzoui.com/iLjQah0pgbe"
+    },
+    {
+        "img": "https://p.e5n.com/up/2017-12/20171228942564686.png",
+        "name": "  使命狙击二战   ",
+        "description": "  最令人惊异的第二次世界大战狙击任务。享受这个史诗般的第一人称射击游戏免费。",
+        "downloanUrl": "https://91miandan.lanzoui.com/iBxP2h0pf0h"
+    },
+    {
+        "img": "https://imgo.shouyouzhijia.net/img2020/5/25/2020052515324340_APP.png",
+        "name": "  魅音    ",
+        "description": "  整合全网最热影视平台资源，想看的影视免费高清在线观看，播放超清流畅不卡顿",
+        "downloanUrl": "https://91miandan.lanzoui.com/iDWa0h0r2hi"
+    },
+    {
+        "img": "http://img.jiuqin.com/newweb/uploads/bd_img/200720/51466_1_1595240101d3p3.jpg",
+        "name": "  勇闯死人谷    ",
+        "description": " 带你进入一个惊险的僵尸末日世界，在这里稍有不慎就会牺牲。努力生存，快速奔跑",
+        "downloanUrl": "https://91miandan.lanzoui.com/iu1Cyh0rb8d"
+    },
+    {
+        "img": "https://p.e5n.com/up/2019-5/20195191127478564.png",
+        "name": "  子弹大师   ",
+        "description": " 类似于全民突击的操作，已修改了支付功能，进入就是超多金币！",
+        "downloanUrl": "https://91miandan.lanzoui.com/iTLcnh0r1te"
+    },
+    {
+        "img": "https://img.52z.com/upload/info/20170908/1504863834273723.jpg",
+        "name": "  空手道格斗    ",
+        "description": " 在这场动感十足的游戏中，让我们成为世界.上最强大的空手道空手道踢拳手",
+        "downloanUrl": "https://91miandan.lanzoui.com/i0CIfh0qw0f"
+    },
+    {
         "img": "http://image.5you.com/attachment/soft/2020/0917/083631_72119673.png",
         "name": "  小黑影视    ",
         "description": "  整合全网最热影视平台资源，想看的影视免费高清在线观看，播放超清流畅不卡顿",
