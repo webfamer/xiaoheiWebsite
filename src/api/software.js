@@ -1,5 +1,89 @@
 let softwareJson = [
     {
+        "img": "http://9.pic.pc6.com/thumb/up/2016-1/2016127102411_160_160.png",
+        "name": "  私密空间    ",
+        "description": " 有不方便的联系人，视频，图片等文件，都可以放进去，特别方便，渣男必备",
+        "downloanUrl": "https://91miandan.lanzoui.com/iU2wPhafl3g"
+    },
+    {
+        "img": "https://thumb71.jfcdns.com/2020-04/16/16f5e97b2bd88403.png",
+        "name": "  U5影视    ",
+        "description": "  这款软件资源丰富国内外网剧应有尽有！已解锁所有VIP功能",
+        "downloanUrl": "https://91miandan.lanzoui.com/iM6Jphafjkb"
+    },
+    {
+        "img": "https://img.e-gps.net/file/2020/03/21/b11ab51b7847fc1f471d8360d3c7a546.png",
+        "name": "  火柴人战争    ",
+        "description": "  超过150种的武器，冲锋枪，霰弹枪，狙击枪，手枪，火箭筒...你可以选择自己适应的武器",
+        "downloanUrl": "https://91miandan.lanzoui.com/iHtFChafj9a"
+    },
+    {
+        "img": "http://thumb12.jfcdns.com/thumb/n13122ac16q24/16f5cd919ca03845_160_160.png",
+        "name": "  铃声多多    ",
+        "description": " 无需VIP，轻松设置全网热门铃声，火爆流行的单曲，热播电视剧的插曲，应有尽有",
+        "downloanUrl": "https://91miandan.lanzoui.com/i0MNmhaf36b"
+    },
+    {
+        "img": "https://shouyou.3dmgame.com/uploadimg/ico/2018/1212/1544582088709558.png",
+        "name": "  狂野极品飞车    ",
+        "description": "  在混乱的城市中总有着一群追寻自由与激情!已解锁所有车，无限购买就完了",
+        "downloanUrl": "https://91miandan.lanzoui.com/iu4rdhaf21a"
+    },
+    {
+        "img": "http://i-1-romzhijia.qqxzb-img.com/2008/11191111/076122b3623145bdb2eee27cd948a621.png?imageView2/2/q/85",
+        "name": "  魔法壁纸   ",
+        "description": "超级多的视频壁纸头像分享，套图，各种类型视频头像等，已解锁会员，去除广告，免登录",
+        "downloanUrl": "https://91miandan.lanzoui.com/iO2Vkhaeugh"
+    },
+    {
+        "img": "https://shouyou.3dmgame.com/uploadimg/ico/2019/0621/1561099272183164.png",
+        "name": "  汽车驾驶    ",
+        "description": "  一款赛车模拟器，不可多得的精品游戏，进入游戏就是99999金币，已修改！",
+        "downloanUrl": "https://91miandan.lanzoui.com/ii3Yshaetgb"
+    },
+    {
+        "img": "http://i-1-121down.qqxzb-img.com/2019/9/8/606a3cb1-da76-44a5-ab7d-9fd4ad6f17c3.png?imageView2/2/q/85",
+        "name": "  微信撩妹小技巧    ",
+        "description": "  微信撩妹小技巧是一款利用微信翻译表白翻译的APP就是一款非常简单实用的软件",
+        "downloanUrl": "https://91miandan.lanzoui.com/igkQjhaerpi"
+    },
+    {
+        "img": "https://imgo.tljpxm.com/simg/20191108/2019110805795422.png",
+        "name": "  魔音    ",
+        "description": " 支持在线收听和无损音乐下载，也可以观看和下载MV，能收听和下载全部破除版权的限制，想听什么就听什么",
+        "downloanUrl": "https://91miandan.lanzoui.com/i7zWfhaer6j"
+    },
+    {
+        "img": "https://www.xia1ge.com/uploads/20200523/15902025132330.png",
+        "name": "  城市帮派战斗    ",
+        "description": "  这个城市完全被犯罪所淹没!到处都是黑帮，现在只有个警察才能结束这场巨大的犯罪浪潮",
+        "downloanUrl": "https://91miandan.lanzoui.com/iMx3phaeqfc"
+    },
+    {
+        "img": "https://shouyou.3dmgame.com/uploadimg/ico/2019/0214/1550106198355264.png",
+        "name": "  第二人生   ",
+        "description": "  模拟你的第二个人生！",
+        "downloanUrl": "https://91miandan.lanzoui.com/i4V2zhaeoyj"
+    },
+    {
+        "img": "http://7.pic.pc6.com/thumb/n2319j319a17rp1a/16f5edee873e8db9_160_160.png",
+        "name": "  通话记录生成器    ",
+        "description": "  一键设置电话记录，可以修改手机号自定义消息时间，渣男神器！",
+        "downloanUrl": "https://91miandan.lanzoui.com/i7Vrehaen1a"
+    },
+    {
+        "img": "http://img.86ps.com/images/202008/d48e55c4a6fc9dd922acb932e7537b31.jpg",
+        "name": "  图片爬虫    ",
+        "description": "  一款截取了全网app软件的美女图片壁纸,打开软件记得去添加网站，看就完了",
+        "downloanUrl": "https://91miandan.lanzoui.com/itkWrhaelqd"
+    },
+    {
+        "img": "http://i-1-33app.qqxzb-img.com/2019/11/22/c7b02a9e-cd37-48cf-91b9-a16abbf1b57b.png?imageView2/2/q/85",
+        "name": "  爬小说    ",
+        "description": "  我们不生产小说，我们只做网站的搬运工，这是有理想的小说神器",
+        "downloanUrl": "https://91miandan.lanzoui.com/igWdbha527g"
+    },
+    {
         "img": "https://android-artworks.25pp.com/fs08/2020/09/27/7/110_bdde7389dec04e54cc4b7edb25508398_con_130x130.png",
         "name": "  酷狗音乐VIP版    ",
         "description": "  破姐豪华VIP特权，去除启动广告及音频广告去除更新所有歌曲免费试听和下载",
