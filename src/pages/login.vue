@@ -1,10 +1,12 @@
 <template>
   <div :style="backgroundDiv" class="app">
     <div class="banner">
-      <van-swipe class="my-swipe" :autoplay="3000" indicator-color="white">
-        <van-swipe-item><span class="bannerWord">qq群：582978931</span></van-swipe-item>
-        <van-swipe-item><span class="bannerWord">不定时更新</span></van-swipe-item>
+      <div class="content">
+      <van-swipe class="my-swipe" :autoplay="5000" :loop="true" :show-indicators="false">
+        <van-swipe-item><img src="../assets/imgs/banner1.jpg" alt="" class="bannerWord" @click="joinYangmao"></van-swipe-item>
+        <van-swipe-item><img src="../assets/imgs/banner2.jpg" alt="" class="bannerWord" @click="joinDieMaoMao"></van-swipe-item>
       </van-swipe>
+      </div>
     </div>
     <van-grid square :column-num="3" icon-size="38">
       <van-grid-item
@@ -80,6 +82,12 @@ export default {
     goBaidu(e) {
       window.location.href = e;
     },
+    joinDieMaoMao(){
+      window.location.href = 'https://jq.qq.com/?_wv=1027&k=02ltgOE4';
+    },
+    joinYangmao(){
+      window.location.href = 'https://jq.qq.com/?_wv=1027&k=86dADaQx';
+    },
     joinUs(){
       window.location.href = 'https://jq.qq.com/?_wv=1027&k=OEdMynIk';
     }
@@ -95,19 +103,18 @@ export default {
   background-position: center ;
 }
 .bannerWord{
-  font-size:20px;
+  width: 100%;
+  height: 178px;
 }
 
 .banner {
   padding-top:15px;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 .my-swipe .van-swipe-item {
   color: #fff;
   font-size: 10px;
-  line-height: 115px;
   text-align: center;
-
 }
 /deep/.van-grid-item--square{
   opacity: .9;
