@@ -1,5 +1,47 @@
 let softwareJson = [
     {
+        "img": "http://8.pic.pc6.com/thumb/n331mt631uxe14puj2a/16f5e73054709b00_160_160.png",
+        "name": "  恋爱话术    ",
+        "description": " 恋爱话术给你带来最佳聊天方案，助你成为撩妹、撩汉高手!",
+        "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b"
+    },
+    {
+        "img": "http://pic.uzzf.com/up/2019-8/2019811843546838.jpg",
+        "name": "  山地射击任务游戏    ",
+        "description": " 引入许多的动作和新的环境，让你从头到尾享受这整个射击游戏",
+        "downloanUrl": "https://91miandan.lanzoui.com/iKJXxhgavwb"
+    },
+    {
+        "img": "https://pic.qqtn.com/up/2017-9/2017911442388053.png",
+        "name": "  帮你做决定    ",
+        "description": " 专为纠结症患者设计，只要把你所有的想法输入进去，系统就会为你随机选出一个结果",
+        "downloanUrl": "https://91miandan.lanzoui.com/iR58Fhgatkh"
+    },
+    {
+        "img": "http://3.pic.pc6.com/thumb/up/2018-2/201822616284610985695_160_160.png",
+        "name": "  无线绘画    ",
+        "description": " 一款轻量级的绘画工具，拥有自动保存功能以及各种惊艳的图片处理",
+        "downloanUrl": "https://91miandan.lanzoui.com/iDnK8hdg9ej"
+    },
+    {
+        "img": "http://0.pic.pc6.com/thumb/n231zq316l19lm42/16f5f4ca6a244bdd_160_160.png",
+        "name": "  人情小记    ",
+        "description": " 一款记录人情往来结账的app，特别方便，解决小本本！",
+        "downloanUrl": "https://91miandan.lanzoui.com/ixPXphdg63a"
+    },
+    {
+        "img": "https://p.e5n.com/up/2018-11/2018115186171950.png",
+        "name": "  小熊录屏    ",
+        "description": " 一个好用稳定的录屏工具,已解锁VIP，解锁会员所有功能",
+        "downloanUrl": "https://91miandan.lanzoui.com/is8v3hdg2kd"
+    },
+    {
+        "img": "http://www.ddooo.com/logo/171022/201710221647521088.png",
+        "name": "  图凌    ",
+        "description": " 分享优质图源,超全图片类型，海量分享资源，4K图片质量！已解锁VIP",
+        "downloanUrl": "https://91miandan.lanzoui.com/iLVw3hdg0de"
+    },
+    {
         "img": "http://9.pic.pc6.com/thumb/up/2016-1/2016127102411_160_160.png",
         "name": "  私密空间    ",
         "description": " 有不方便的联系人，视频，图片等文件，都可以放进去，特别方便，渣男必备",
@@ -30,7 +72,7 @@ let softwareJson = [
         "downloanUrl": "https://91miandan.lanzoui.com/iu4rdhaf21a"
     },
     {
-        "img": "http://i-1-romzhijia.qqxzb-img.com/2008/11191111/076122b3623145bdb2eee27cd948a621.png?imageView2/2/q/85",
+        "img": "https://img.pw88.com/uploadfile/gather/2020/0507/202005079186.jpg",
         "name": "  魔法壁纸   ",
         "description": "超级多的视频壁纸头像分享，套图，各种类型视频头像等，已解锁会员，去除广告，免登录",
         "downloanUrl": "https://91miandan.lanzoui.com/iO2Vkhaeugh"
@@ -42,7 +84,7 @@ let softwareJson = [
         "downloanUrl": "https://91miandan.lanzoui.com/ii3Yshaetgb"
     },
     {
-        "img": "http://i-1-121down.qqxzb-img.com/2019/9/8/606a3cb1-da76-44a5-ab7d-9fd4ad6f17c3.png?imageView2/2/q/85",
+        "img": "https://img.zuiben.com/uploads/allimg/181220/37-1Q2201621550-L.jpg",
         "name": "  微信撩妹小技巧    ",
         "description": "  微信撩妹小技巧是一款利用微信翻译表白翻译的APP就是一款非常简单实用的软件",
         "downloanUrl": "https://91miandan.lanzoui.com/igkQjhaerpi"
