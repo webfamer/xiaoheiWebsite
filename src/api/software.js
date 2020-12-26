@@ -1,35 +1,81 @@
 let softwareJson = [
 
-    // {
-    //     "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029011.png",
-    //     "name": " 恋爱话术  ",
-    //     "description": " 恋爱话术给你带来最佳聊天方案，助你成为撩妹、撩汉高手! ",
-    //     "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
-    // },
-    // {
-    //     "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029014.png",
-    //     "name": " 恋爱话术  ",
-    //     "description": " 恋爱话术给你带来最佳聊天方案，助你成为撩妹、撩汉高手! ",
-    //     "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
-    // },
-    // {
-    //     "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029017.png",
-    //     "name": " 恋爱话术  ",
-    //     "description": " 恋爱话术给你带来最佳聊天方案，助你成为撩妹、撩汉高手! ",
-    //     "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
-    // },
-    // {
-    //     "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029020.png",
-    //     "name": " 恋爱话术  ",
-    //     "description": " 恋爱话术给你带来最佳聊天方案，助你成为撩妹、撩汉高手! ",
-    //     "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
-    // },
-    // {
-    //     "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029023.png",
-    //     "name": " 恋爱话术  ",
-    //     "description": " 恋爱话术给你带来最佳聊天方案，助你成为撩妹、撩汉高手! ",
-    //     "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
-    // },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/番茄免费小说.png", "name": "番茄免费小说 ", "description": " 已去除广告拥有多种主题，全网热门类小说一网打尽!", "downloanUrl": "https://91miandan.lanzoui.com/iZ4F8jal50f" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/越野自行车.png", "name": " 越野自行车 ", "description": " 作为山地自行车的特技高手，在美丽的自行车上奔跑!", "downloanUrl": "https://91miandan.lanzoui.com/iCiHdjal4rg" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/影视蛙.png", "name": " 影视蛙 ", "description": " 界面简洁流畅，播放线路多，加载速度快!", "downloanUrl": "https://91miandan.lanzoui.com/iSJQljal44d" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/驱蚊助手.png", "name": " 参考仿生学开发的专门用于驱赶蚊子的手机应用!", "downloanUrl": "https://91miandan.lanzoui.com/iweTujal3zi" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/视频去水印.png", "name": " 视频去水印 ", "description": "可以快速去除水印的应用软件，打造属于自己的专属图片或视频!", "downloanUrl": "https://91miandan.lanzoui.com/i2kmTjal3wf" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/愤怒的小鸟.png", "name": " 愤怒的小鸟 ", "description": "愤怒的小鸟最老版本，已解锁所有关卡!", "downloanUrl": "https://91miandan.lanzoui.com/igkMKjal3le" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/吃鸡盒子.png", "name": " 吃鸡盒子 ", "description": " 全网首发强势复活吃鸡锄草 !", "downloanUrl": "https://91miandan.lanzoui.com/i7Qv7jal1wd" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/音乐频闪灯.png", "name": " 音乐频闪灯 ", "description": " 闪光灯通过你发出来的声音节奏走，可以在各种大型演出当荧光棒用!", "downloanUrl": "https://91miandan.lanzoui.com/ihjQgjal0sd" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/关键行动的召唤.png", "name": "关键行动的召唤 ", "description": " 似于单机游戏的穿越火线，进入游戏送无限金币!", "downloanUrl": "https://91miandan.lanzoui.com/i97R5jal0rc" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/福利买家秀.png", "name": " 福利买家秀 ", "description": " 对接了小姐姐的买家晒图秀 各种各样的小姐姐非常亮眼!", "downloanUrl": "https://91miandan.lanzoui.com/i97R5jal0rc" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/城市飞车.png", "name": " 城市飞车 ", "description": " 一款模拟赛车游戏的软件，已解锁无限金币!", "downloanUrl": "https://91miandan.lanzoui.com/igjXhjakzih" },
+    {"img": "http://webfamer321.gitee.io/xiaohei-img/img/魔方教程.png", "name": " 魔方教程 ", "description": " 魔方教程不会玩，这个软件轻松让你入门，每一个都有老师视频教学!", "downloanUrl": "https://91miandan.lanzoui.com/iQs52jakyra" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/僵尸暴击.png", "name": " 僵尸暴击 ", "description": " 一个充满亡者的世界，保护幸存者，阻止僵尸!", "downloanUrl": "https://91miandan.lanzoui.com/iMRGbjakyeh" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/倒带.png", "name": " 倒带 ", "description": " 适用百度云音乐和QQ音乐上的收费标准歌曲，免费下载，你要听的歌曲这儿常有!", "downloanUrl": "https://91miandan.lanzoui.com/iemOBjakxhe" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/恋爱话术库.png", "name": " 恋爱话术库 ", "description": " 你选择轻轻一点即可复制，妈妈再也不用但你的尬聊!", "downloanUrl": "https://91miandan.lanzoui.com/ivJIejakxda" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/射击舞台3D.png", "name": " 射击舞台3D ", "description": " 最终的气枪彩的挑战，灭他们或得到由神枪手淘汰!", "downloanUrl": "https://91miandan.lanzoui.com/iNdWFjakxah" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/更换密保手机.png", "name": " 更换密保手机 ", "description": " 不是百分百可以成功！必须是长期登录本手机的QQ才可以大几率成功!", "downloanUrl": "https://91miandan.lanzoui.com/ig3eRjakvte" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/暗影弓箭手.png", "name": " 暗影弓箭手 ", "description": " 一款平台型快速射击游戏，具有史诗般的动作画面!", "downloanUrl": "https://91miandan.lanzoui.com/iVgP3jakvoj" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/微信钱包生成余额.png", "name": " 微信钱包生成余额 ", "description": " 为微信用户精心打造的余额生成器，有了它你能够生成任意微信余额!", "downloanUrl": "https://91miandan.lanzoui.com/iyOzZjakuyd" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/新射击3D.png", "name": " 新射击3D ", "description": " 消灭所有这些犯罪分子，使你的城市免于犯罪!", "downloanUrl": "https://91miandan.lanzoui.com/ibOuBjakuva" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/随机动漫图.png", "name": " 随机动漫图 ", "description": " 一款趣味性十足的掌上二次元美图应用!", "downloanUrl": "https://91miandan.lanzoui.com/ig6cRjaktzi" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/粉碎者.png", "name": " 粉碎者 ", "description": " 用你的力量在这个世界里粉碎一切!", "downloanUrl": "https://91miandan.lanzoui.com/izSpFjaknli" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/猫念小说.png", "name": " 猫念小说 ", "description": " 免费小说全网小说免费看 特别方便实用的小说阅读软件!", "downloanUrl": "https://91miandan.lanzoui.com/i45zgjakmpg" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/语录大全.png", "name": " 语录大全 ", "description": " 更丰富的心灵鸡汤语录，享受更多触动心灵!", "downloanUrl": "https://91miandan.lanzoui.com/isVb0jakmmd" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/射击的士兵传说.png", "name": " 射击的士兵传说 ", "description": " 类似于魂斗罗的游戏，无限金币无限生命!", "downloanUrl": "https://91miandan.lanzoui.com/iTW2Mjakmhi" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/看漫画.png", "name": "看漫画 ", "description": " 所有的功能都是永久免费的，每天推送用户相关喜爱的漫画!", "downloanUrl": "https://91miandan.lanzoui.com/ilCAXjakm3e" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/货币汇率计算器.png", "name": "货币汇率计算器 ", "description": " 即时银行汇率，提供您更精准的兑换价格!", "downloanUrl": "https://91miandan.lanzoui.com/iCFUpjakm6h" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/高峰时段.png", "name": "高峰时段 ", "description": " 快速行驶并超车，开车时尽量不要撞到其他汽车!", "downloanUrl": "https://91miandan.lanzoui.com/iZTTnjaklhc" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/文字转语音pro.png", "name": " 文字转语音pro ", "description": " 看小说阅文章可以将文字换成听的了 !", "downloanUrl": "https://91miandan.lanzoui.com/iHi8Xjakkaj" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/太空冲浪者.png", "name": " 太空冲浪者 ", "description": " 太空冲浪者永远不会停止飞行和乐趣！", "downloanUrl": "https://91miandan.lanzoui.com/iYTe6jakk8h" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/修图去水印.png", "name": " 修图去水印 ", "description": " 高品质P图修复去水印神器，为你打造高品质专业大片!", "downloanUrl": "https://91miandan.lanzoui.com/iGL2Kjakitg" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/歌词精灵.png", "name": " 歌词精灵 ", "description": " 快速制作和加工歌词的软件，支持网易云歌词!", "downloanUrl": "https://91miandan.lanzoui.com/iHjO6jakiqd" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/看吧影视.png", "name": " 看吧影视 ", "description": " 一款免费的手机播放器，破解了全网最火爆的影视资源!", "downloanUrl": "https://91miandan.lanzoui.com/iAlnCjakimj" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/室内足球.png", "name": " 室内足球 ", "description": " 在美丽的足球竞技场中玩，最好的室内足球模拟游戏，跑步射击比赛!", "downloanUrl": "https://91miandan.lanzoui.com/ioqhijakicj" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/画师通.png", "name": "画师通 ", "description": " 有超级多精美的画作，展现每一张图片背后都可以评论!", "downloanUrl": "https://91miandan.lanzoui.com/iNVgAjakhqh" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/知音漫客.png", "name": "知音漫客 ", "description": " 拥有海量的漫画，登陆就能解锁VIP内容!", "downloanUrl": "https://91miandan.lanzoui.com/igw3fjakhij" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/超级火柴人对决.png", "name": " 超级火柴人对决 ", "description": "您将成为至高无上的火柴人战士，进入游戏送无限金币!", "downloanUrl": "https://91miandan.lanzoui.com/iKFSpjakh8j" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/公路赛3D.png", "name": " 公路赛3D ", "description": " 一款非常有意思的休闲游戏，在起点出发用你最快的速度到达终点!", "downloanUrl": "https://91miandan.lanzoui.com/iMpt0jakgte" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/复制拼接.png", "name": "复制拼接 ", "description": " 实现非连续复制的小工具，没有界面打开后会自动转到后台运行!", "downloanUrl": "https://91miandan.lanzoui.com/i1InHjakg5a" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/复制拼接.png", "name": "复制拼接 ", "description": " 实现非连续复制的小工具，没有界面打开后会自动转到后台运行!", "downloanUrl": "https://91miandan.lanzoui.com/i1InHjakg5a" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/怪物卡车竞赛.png", "name": "怪物卡车竞赛 ", "description": " 终极4x4汽车死亡竞赛游戏，没有道路没有规则!", "downloanUrl": "https://91miandan.lanzoui.com/iLMJ7j9lw3e" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/剪映.png", "name": " 剪映 ", "description": " 一个全能好用的视频编辑工具，一键生成大片", "downloanUrl": "https://91miandan.lanzoui.com/ihKArj9lvch" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/思维导图.png", "name": " 思维导图 ", "description": "一款超级方便的软件，有好的创意想法都可以进行创作，特别方便免费使用!", "downloanUrl": "https://91miandan.lanzoui.com/i8Zgvj9luji" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/木星影院.png", "name": " 木星影院 ", "description": " 非常强大的观影应用，拥有海量的香港影视资源", "downloanUrl": "https://91miandan.lanzoui.com/i8By8j9luih" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/摄像头和麦克风拦截者.png", "name": " 摄像头和麦克风拦截者 ", "description": " 这款工具为你带来自定义的设置，给想给与麦克风以及摄像头的应用开启白名单就可以！", "downloanUrl": "https://91miandan.lanzoui.com/irvrgj9ltkd" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/钢琴方块.png", "name": " 钢琴方块 ", "description": " 为您制作的歌曲演奏钢琴，让您觉得自己是超级巨星!", "downloanUrl": "https://91miandan.lanzoui.com/iE8CWj9ltha" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/VAZ驾驶模拟器.png", "name": " VAZ驾驶模拟器 ", "description": " 你喜欢家用车吗，如果您喜欢，这就是给您的游戏!", "downloanUrl": "https://91miandan.lanzoui.com/iYeDLj9lssf" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/肥波影视.png", "name": " 肥波影视 ", "description": " 拥有海量的香港影视资源，支持视频极速，加载秒播放 !", "downloanUrl": "https://91miandan.lanzoui.com/iTA8cj9ls3a" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/笔趣阁.png", "name": " 笔趣阁 ", "description": " 免费看小说的app，看全网小说，可在线观看!", "downloanUrl": "https://91miandan.lanzoui.com/iryp2j9lrqh" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/韩国免费漫画.png", "name": " 韩国免费漫画 ", "description": " 高清加载漫画零等待 全部免费看 无需充值花钱美滋滋!", "downloanUrl": "https://91miandan.lanzoui.com/iXzqWj9lrof" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/小睡眠.png", "name": " 小睡眠 ", "description": " 提供专业全面和暖心的睡眠服务，帮你睡得更好睡得更香。", "downloanUrl": "https://91miandan.lanzoui.com/iSrXtj9lrmd" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/苹果计算器.png", "name": " 苹果计算器 ", "description": " 这个软件让你体验苹果计算机的感觉，特别好看！", "downloanUrl": "https://91miandan.lanzoui.com/iYIkPj9lqza" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/完美的驾驶学校.png", "name": "完美的驾驶学校 ", "description": " 完全物理模拟的3D环境中驾驶汽车并停放到停车区域!", "downloanUrl": "https://91miandan.lanzoui.com/imThPj9lqyj" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/小白图床.png", "name": " 小白图床 ", "description": " 小白图床，简单易操作的图床App!", "downloanUrl": "https://91miandan.lanzoui.com/iOewjj9lq0f" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/Listen 1.png", "name": " Listen 1 ", "description": " 一款非常强大的音乐应用,聚合网易QQ虾米三大平台!", "downloanUrl": "https://91miandan.lanzoui.com/iD1DSj9lopi" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/极简时钟.png", "name": " 极简时钟 ", "description": " 令人沉浸的极简主义翻页时钟,特别适合拍照和录视频哟!", "downloanUrl": "https://91miandan.lanzoui.com/ihXQHj9a31c" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/高级小偷.png", "name": " 高级小偷 ", "description": " 您是个掌握扒窃技巧的小偷,提高您的技能,窃取现金并避免警察!", "downloanUrl": "https://91miandan.lanzoui.com/iog5ij9a1uj" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/图片信息提取.png", "name": " 图片信息提取 ", "description": " 获取修改图片中的信息,软件没有联网权限不用担心会将您的图片储存!", "downloanUrl": "https://91miandan.lanzoui.com/iamrrj99zah" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/白.png", "name": "白 ", "description": " 一款每天分享文案的app，在快手上发特别好，背景也特别好看!", "downloanUrl": "https://91miandan.lanzoui.com/i3qEdj99y8j" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/PickU.png", "name": " PickU ", "description": " 可以对照片内容进行一键抠图并且保留度非常高,解锁VIP!", "downloanUrl": "https://91miandan.lanzoui.com/i3qEdj99y8j" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/越野自行车.png", "name": " 越野自行车 ", "description": " 作为山地自行车的特技高手在美丽的自行车上奔跑,进入游戏送无限金币", "downloanUrl": "https://91miandan.lanzoui.com/iSqTOj99uif" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/微商水印Pro.png", "name": " 微商水印Pro ", "description": " 一次可以处理100张图,还有多种多样的水印模板,解锁VIP!", "downloanUrl": "https://91miandan.lanzoui.com/i8RIMj99rmb" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/花式手电筒.png", "name": " 花式手电筒 ", "description": " 添加了闪光灯,sos短信求救灯,自拍补光灯,来电屏幕闪光灯等等", "downloanUrl": "https://91miandan.lanzoui.com/iG1Emj99nza" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/高中物理大全.png", "name": " 高中物理大全 ", "description": " 学习高中物理大全 !", "downloanUrl": "https://91miandan.lanzoui.com/iOkPRj99n9e" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/高级小偷.png", "name": " 高级小偷 ", "description": " 提高您的技能并转移到富人区来清理现金，进入游戏送无限金币！", "downloanUrl": "https://91miandan.lanzoui.com/i4bSKj99m1a" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/佛跳墙加速器.png", "name": " 佛跳墙加速器 ", "description": " 佛跳墙加速器不多介绍了，VIP，修改专业版 ", "downloanUrl": "https://91miandan.lanzoui.com/idOSjj99kjg" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/急速下载器.png", "name": " 急速下载器 ", "description": " 流行的视频网站下载管理器，支持所有协议!", "downloanUrl": "https://91miandan.lanzoui.com/ihX90j99i7c" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/铃声多多.png", "name": " 铃声多多 ", "description": " 全网铃声任你换!已经解锁VIP,登录即为永久VIP", "downloanUrl": "https://91miandan.lanzoui.com/i5IXjj99gsb" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/灵狮狗模拟.png", "name": " 灵狮狗模拟 ", "description": " 如果狗是您最喜欢的宠物，那么这就是您的游戏,进入游戏送无限金币！", "downloanUrl": "https://91miandan.lanzoui.com/iqQYkj99fah" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/截屏精灵.png", "name": " 截屏精灵 ", "description": " 支持摇一摇截屏,悬浮窗截屏,通知栏截屏,截屏图片一键分享到微信微博!", "downloanUrl": "https://91miandan.lanzoui.com/ihxtKj99cji" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/物理互动模拟电学.png", "name": "物理互动模拟电学 ", "description": " 在手机上互动模拟物理电学实验，轻松方便，还很安全!", "downloanUrl": "https://91miandan.lanzoui.com/i9XBcj99bra" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/摩托车赛.png", "name": " 摩托车赛 ", "description": " 极具冒险精神的自行车游戏，以令人难以置信的速度控制你的摩托车!", "downloanUrl": "https://91miandan.lanzoui.com/itOn5j997hg" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/古诗词典.png", "name": " 古诗词典 ", "description": " 收录了近10万首诗词，为您提供优质的诗词内容和注解", "downloanUrl": "https://91miandan.lanzoui.com/isODmj994vc" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/狗狗奔跑.png", "name": " 狗狗奔跑 ", "description": " 带小狗去旅行，在旅途中发现新的世界,进入游戏送无限金币!", "downloanUrl": "https://91miandan.lanzoui.com/iTXnPj993ch" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/呆呆酱.png", "name": " 呆呆酱 ", "description": " 提供二次元相关的图文内容以及短视频内容,“二次元领域的今日头条”!", "downloanUrl": "https://91miandan.lanzoui.com/iL4Vzj9913g" },
+    { "img": "http://webfamer321.gitee.io/xiaohei-img/img/好多动漫.png", "name": " 好多动漫 ", "description": "汇聚了海量的动漫图片,还是一个二次元动漫图片搜索神器!", "downloanUrl": "https://91miandan.lanzoui.com/iLf1fj98wra" },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029026.png",
         "name": " Q币充值成功生成  ",
@@ -54,12 +100,12 @@ let softwareJson = [
         "description": " 您正在寻找一款顶级火柴人格斗游戏。您是火柴人战士的粉丝吧?努力坚持战斗 ",
         "downloanUrl": "https://91miandan.lanzoui.com/iUXeZif33kj "
     },
-    // {
-    //     "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029040.png",
-    //     "name": " 一只咕鸽  ",
-    //     "description": " 一款既有颜值由非常强大的工具箱! ",
-    //     "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
-    // },
+    {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/guge.png",
+        "name": " 一只咕鸽  ",
+        "description": "是一款既有颜值由非常强大的工具箱！ ",
+        "downloanUrl": "https://91miandan.lanzoui.com/igJtYif2vub "
+    },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029042.png",
         "name": " 本田思域模拟器",
@@ -71,6 +117,18 @@ let softwareJson = [
         "name": " 水印大法  ",
         "description": " 本应用可给照片附上相机水印部分，建议关闭超清模式! ",
         "downloanUrl": "https://91miandan.lanzoui.com/iB3Peif2s7a "
+    },
+    {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029045.png",
+        "name": "崩坏三表情包  ",
+        "description": " 一组很火的崩坏3动态表情包，作者是韩国的画师",
+        "downloanUrl": "https://91miandan.lanzoui.com/magiv.png "
+    },
+    {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029045.png",
+        "name": " 魔法手电筒  ",
+        "description": " 自己设置一下叫什么文字就可以打开手电筒，颜色也是五颜六色的特别实用！ ",
+        "downloanUrl": "https://91miandan.lanzoui.com/emoil.png"
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029047.png",
@@ -89,6 +147,12 @@ let softwareJson = [
         "name": " 唔姆  ",
         "description": " 汇集了全网的二次元漫画图片资源，想要什么图，一搜就出结果! ",
         "downloanUrl": "https://91miandan.lanzoui.com/iNXtviez9ne "
+    },
+    {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/deerplus.png",
+        "name": " DeerPlus  ",
+        "description": " 本次给大家带来的破解版，安装后就可以获得无限vip，可以免费上全部的课程 ",
+        "downloanUrl": "https://91miandan.lanzoui.com/iwiC7iez68b "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029056.png",
@@ -121,10 +185,28 @@ let softwareJson = [
         "downloanUrl": "https://91miandan.lanzoui.com/imxVAiexndg "
     },
     {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/clock.jpg",
+        "name": " 悬浮时钟  ",
+        "description": " 一款随时随地都可以看到时间的app，特别方便实用！",
+        "downloanUrl": "https://91miandan.lanzoui.com/i8F3Tiexmgd "
+    },
+    {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/baizhaoying.png",
+        "name": " 白噪音催眠  ",
+        "description": "已付费去广告版，采集了几十个音屏，功能超级多，晚上睡不着可以听听！ ",
+        "downloanUrl": "https://91miandan.lanzoui.com/iAUbViexlqh "
+    },
+    {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029069.png",
         "name": " 古代战争模拟器  ",
         "description": " 只有您的才智才能为这款全面战争古代模拟器带来荣耀! ",
         "downloanUrl": "https://91miandan.lanzoui.com/i6Dtoif41zi "
+    },
+    {
+        "img": "http://i-3.yiwan.com/2019/5/13/0ccb00b9-5005-4c08-990f-a7d3353d9ede.png?width=512&height=512",
+        "name": " 游戏翻译助手 ",
+        "description": " 实时框选翻译游戏文字内容，让玩游戏无国界 ",
+        "downloanUrl": "https://91miandan.lanzoui.com/iHe54iexeze "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029071.png",
@@ -151,7 +233,7 @@ let softwareJson = [
         "downloanUrl": "https://91miandan.lanzoui.com/iyQaNiex99i "
     },
     {
-        "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029079.png",
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/imume.png",
         "name": " 每日环球展览 ",
         "description": " 专注于全球艺术展览博物馆活动的生活方式App,让你时刻了解身边正在进行的精彩展览! ",
         "downloanUrl": "https://91miandan.lanzoui.com/ifo2miex90j "
@@ -191,6 +273,12 @@ let softwareJson = [
         "name": " 噪音监测  ",
         "description": " 这是一款噪音分贝检测应用，通过对耳麦中的声音进行计算得出具体的分贝! ",
         "downloanUrl": "https://91miandan.lanzoui.com/iRvl8iex1sj "
+    },
+    {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/quanhuang.png",
+        "name": " 拳皇97  ",
+        "description": " 内置金手指，优秀的打击，诱惑画面,是我们心中童年的回忆。 ",
+        "downloanUrl": "https://91miandan.lanzoui.com/ibZQWif3yqb "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029099.png",
@@ -233,6 +321,12 @@ let softwareJson = [
         "name": " 黑客键盘  ",
         "description": " 一款功能强大的全键盘式虚拟键盘输入工具，更接近日常电脑键盘键位! ",
         "downloanUrl": "https://91miandan.lanzoui.com/iAipxiegmyj "
+    },
+    {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/zhiying.png",
+        "name": " 知音漫客  ",
+        "description": " 拥有海量的漫画，登陆就能解锁VIP内容！ ",
+        "downloanUrl": "https://91miandan.lanzoui.com/iaZPIj8dd8b "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029117.jpeg",
@@ -346,13 +440,13 @@ let softwareJson = [
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029178.png",
         "name": " 降温大师  ",
         "description": " 恋全球首款专业手机温度监控和降温软件，通过检测并关闭发热应用，减少CPU能耗! ",
-        "downloanUrl": "https://91miandan.lanzoui.com/iIrq7idqmxc "
+        "downloanUrl": "https://91miandan.lanzoui.com/iDtREidqnid "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029180.png",
         "name": " 作业帮精简版  ",
         "description": " 去除无用界面 主界面修改为拍照界面 精简语言包 精简布局! ",
-        "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
+        "downloanUrl": "https://91miandan.lanzoui.com/iIrq7idqmxc "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029183.png",
@@ -367,16 +461,16 @@ let softwareJson = [
         "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
     },
     {
-        "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029189.png",
-        "name": " win10桌面  ",
-        "description": " 一款有电脑系统类似的桌面，图标多，窗口页面任意切换 ",
-        "downloanUrl": "https://91miandan.lanzoui.com/igAzUidpnsh"
-    },
-    {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029192.png",
         "name": " 果冻图标包  ",
         "description": " 在食用本图标包时自行调节屏幕颜色模式，以确保获得最适合自己的观感! ",
         "downloanUrl": "https://91miandan.lanzoui.com/i6CTVidpomh "
+    },
+    {
+        "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029189.png",
+        "name": " win10桌面  ",
+        "description": " 一款有电脑系统类似的桌面，图标多，窗口页面任意切换 ",
+        "downloanUrl": "https://91miandan.lanzoui.com/igAzUidpnsh"
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029195.png",
@@ -388,7 +482,7 @@ let softwareJson = [
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029197.png",
         "name": " 忍者武士  ",
         "description": " 您必须在龙的史诗般的战斗中生存，并与暗影忍者战士作战! ",
-        "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
+        "downloanUrl": "https://91miandan.lanzoui.com/i0oZlj8wswj "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029200.png",
@@ -406,7 +500,7 @@ let softwareJson = [
         "img": "ihttp://webfamer321.gitee.io/xiaohei-img/img/605435029206.jpeg",
         "name": " 忍者格斗  ",
         "description": " 运用你的技巧打败对手吧，进去金币99999+，钻石也是! ",
-        "downloanUrl": "https://91miandan.lanzoui.com/iuYf4hgb20b "
+        "downloanUrl": "https://91miandan.lanzoui.com/ibP2Niuksne "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029208.png",

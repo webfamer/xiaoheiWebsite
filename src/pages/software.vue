@@ -8,7 +8,7 @@
       </ul>
       <div class="title">
         <van-notice-bar color="#1989fa" background="#ecf9ff" left-icon="info-o">
-          之前有事，现在恢复正常更新，点击下载没反应是我还没更新链接，我会慢慢补上的
+         有事联系酷安昵称：滑稽用户工号9527
         </van-notice-bar>
       </div>
       <div class="searchInput">

@@ -1,9 +1,10 @@
 <template>
   <div :style="backgroundDiv" class="app">
     <div class="banner">
-      <van-swipe class="my-swipe" :autoplay="3000" indicator-color="white">
-        <van-swipe-item><span class="bannerWord">qq群：582978931</span></van-swipe-item>
-        <van-swipe-item><span class="bannerWord">不定时更新</span></van-swipe-item>
+      <van-swipe class="my-swipe"  indicator-color="white">
+        <van-swipe-item><img src="../assets/imgs/xiaohei.png" alt="" style="width:100%;height: 10%;" @click="gotoShop"></van-swipe-item>
+        <van-swipe-item><img src="../assets/imgs/goshop.png" alt="" style="width:100%;height: 10%;" @click="joinUs"></van-swipe-item>
+        <!-- <van-swipe-item><span class="bannerWord" style="display:block;height:10%">qq群：582978931</span></van-swipe-item> -->
       </van-swipe>
     </div>
     <van-grid square :column-num="3" icon-size="38">
@@ -82,6 +83,10 @@ export default {
     },
     joinUs(){
       window.location.href = 'https://jq.qq.com/?_wv=1027&k=OEdMynIk';
+    },
+    gotoShop(){
+      window.location.href = 'http://shop.91miandan.top';
+
     }
   },
 };
@@ -105,7 +110,7 @@ export default {
 .my-swipe .van-swipe-item {
   color: #fff;
   font-size: 10px;
-  line-height: 115px;
+  /* line-height: 115px; */
   text-align: center;
 
 }
