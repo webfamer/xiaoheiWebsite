@@ -122,13 +122,13 @@ let softwareJson = [
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029045.png",
         "name": "崩坏三表情包  ",
         "description": " 一组很火的崩坏3动态表情包，作者是韩国的画师",
-        "downloanUrl": "https://91miandan.lanzoui.com/magiv.png "
+        "downloanUrl": "https://91miandan.lanzous.com/iUrTEif2poj "
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029045.png",
         "name": " 魔法手电筒  ",
         "description": " 自己设置一下叫什么文字就可以打开手电筒，颜色也是五颜六色的特别实用！ ",
-        "downloanUrl": "https://91miandan.lanzoui.com/emoil.png"
+        "downloanUrl": "https://91miandan.lanzous.com/ibZxzif2kid"
     },
     {
         "img": "http://webfamer321.gitee.io/xiaohei-img/img/1605435029047.png",
