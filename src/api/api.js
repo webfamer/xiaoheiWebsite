@@ -1,15 +1,12 @@
 import request from './request.js'
 
-function getSoftware(data){
+export function addSoftware(data){
     return request({
-        url:'/unClassfied',
-        method:'get',
+        url:'/login',
+        method:'post',
         data:data,
     })
 }
 
 
 
-export default{
-    getSoftware
-}

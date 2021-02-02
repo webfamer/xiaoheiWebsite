@@ -3,7 +3,7 @@ import qs from 'qs'
 
 // create an axios instance
 const service = axios.create({
-  baseURL: 'http://rap2.taobao.org:38080/app/mock/240255',
+  baseURL: 'http://127.0.0.1:3000',
   timeout: 5000 // request timeout
 })
 

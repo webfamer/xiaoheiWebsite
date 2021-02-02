@@ -14,6 +14,11 @@ const routes = [
     path:'/softWare',
     name:'softWare',
     component:()=>import('../pages/software.vue')
+  },
+  {
+    path:'/manage',
+    name:'manage',
+    component:()=>import('../pages/manage.vue')
   }
 ]
 
