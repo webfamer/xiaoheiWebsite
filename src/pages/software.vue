@@ -2,7 +2,7 @@
   <div class="software">
     <div class="software-c">
       <ul class="nav">
-        <li>软件列表</li>
+        <li><a href="http://kuan.91miandan.top">软件列表</a></li>
         /
         <li>软件汇总</li>
       </ul>
