@@ -2,7 +2,7 @@
   <div class="software">
     <div class="software-c">
       <ul class="nav">
-        <li><a href="http://kuan.91miandan.top">软件列表</a></li>
+        <li>软件列表</li>
         /
         <li>软件汇总</li>
       </ul>
@@ -37,7 +37,7 @@
             </p>
           </div>
         </div>
-        <div class="downsoft" @click="downsoftware(item.downloanUrl)">
+        <div class="downsoft" @click="downsoftware(item)">
           立即下载
         </div>
       </div>
@@ -46,7 +46,7 @@
 </template>
 
 <script>
-import softApi from "../api/api";
+import {addSoftware} from "../api/api";
 import softwareJson from "../api/software";
 export default {
   data() {
@@ -59,8 +59,8 @@ export default {
     getSoftware() {
       this.softwareInfo = softwareJson;
     },
-    downsoftware(url) {
-      window.location.href = url;
+    downsoftware(data) {
+     addSoftware({data:data})
     },
     searchList(val) {
     this.softwareInfo = softwareJson.filter((item) => {
