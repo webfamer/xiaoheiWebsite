@@ -1,20 +1,12 @@
 <template>
   <div :style="backgroundDiv" class="app">
     <div class="banner">
-<<<<<<< HEAD
-      <div class="content">
-      <van-swipe class="my-swipe" :autoplay="5000" :loop="true" :show-indicators="false">
-        <van-swipe-item><img src="../assets/imgs/banner1.jpg" alt="" class="bannerWord" @click="joinYangmao"></van-swipe-item>
-        <van-swipe-item><img src="../assets/imgs/banner2.jpg" alt="" class="bannerWord" @click="joinDieMaoMao"></van-swipe-item>
-=======
       <van-swipe class="my-swipe"  indicator-color="white">
         <van-swipe-item><img src="../assets/imgs/xiaohei.png" alt="" style="width:100%;height: 10%;" @click="gotoShop"></van-swipe-item>
         <van-swipe-item><img src="../assets/imgs/goshop.png" alt="" style="width:100%;height: 10%;" @click="joinUs"></van-swipe-item>
         <!-- <van-swipe-item><span class="bannerWord" style="display:block;height:10%">qq群：582978931</span></van-swipe-item> -->
->>>>>>> 120b2a220100d90356e2f4702dff498fa59237df
       </van-swipe>
       </div>
-    </div>
     <van-grid square :column-num="3" icon-size="38">
       <van-grid-item
         v-for="(item, index) in dataList"
@@ -44,42 +36,42 @@ export default {
         },
         {
           name: "小说专区",
-          url: "https://91miandan.lanzous.com/b00nmpg1i",
+          url: "https://91miandan.lanzoui.com/b00nmpg1i",
           icon: "column",
         },
         {
           name: "破解游戏",
-          url: "https://91miandan.lanzous.com/b00nmpggd",
+          url: "https://91miandan.lanzoui.com/b00nmpggd",
           icon: "smile",
         },
         {
           name: "影视专区",
-          url: "https://91miandan.lanzous.com/b00nmpgli",
+          url: "https://91miandan.lanzoui.com/b00nmpgli",
           icon: "video",
         },
         {
           name: "游戏辅助",
-          url: "https://91miandan.lanzous.com/b00nmpiuj",
+          url: "https://91miandan.lanzoui.com/b00nmpiuj",
           icon: "fire",
         },
         {
           name: "QQ工具",
-          url: "https://91miandan.lanzous.com/b00nmpixc",
+          url: "https://91miandan.lanzoui.com/b00nmpixc",
           icon: "comment-circle",
         },
         {
           name: "秋名山",
-          url: "https://91miandan.lanzous.com/b00nmpjaf",
+          url: "https://91miandan.lanzoui.com/b00nmpjaf",
           icon: "friends",
         },
         {
           name: "实用工具",
-          url: "https://91miandan.lanzous.com/b00nmpjje",
+          url: "https://91miandan.lanzoui.com/b00nmpjje",
           icon: "audio",
         },
         {
           name: "音乐专区",
-          url: "https://91miandan.lanzous.com/b00nmpjxi",
+          url: "https://91miandan.lanzoui.com/b00nmpjxi",
           icon: "music",
         },
       ],
@@ -125,10 +117,7 @@ export default {
 .my-swipe .van-swipe-item {
   color: #fff;
   font-size: 10px;
-<<<<<<< HEAD
-=======
   /* line-height: 115px; */
->>>>>>> 120b2a220100d90356e2f4702dff498fa59237df
   text-align: center;
 }
 /deep/.van-grid-item--square{

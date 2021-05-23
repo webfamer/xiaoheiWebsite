@@ -58,9 +58,11 @@ export default {
   methods: {
     getSoftware() {
       this.softwareInfo = softwareJson;
+      console.log(this,'function')
     },
     downsoftware(url) {
-      window.location.href = url;
+      let tempwindow = window.open('_blank');
+      tempwindow.location.href = url;
     },
     searchList(val) {
     this.softwareInfo = softwareJson.filter((item) => {
@@ -68,10 +70,14 @@ export default {
        return newName.match(val)
       });
     },
+    testList:()=>{
+  console.log(this,'立即执行函数')
+},
   },
 
   created() {
     this.getSoftware();
+    this.testList();
   },
 };
 </script>
@@ -115,7 +121,7 @@ export default {
       }
       .menu-r {
         h3 {
-          margin: 0 0 12px;
+          margin: 20px 0 12px;
           font-size: 18px;
           line-height: 1.3;
           text-align: left;
