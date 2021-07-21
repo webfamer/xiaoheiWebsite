@@ -8,7 +8,7 @@
       </ul>
       <div class="title">
         <van-notice-bar color="#1989fa" background="#ecf9ff" left-icon="info-o">
-         有事联系酷安昵称：滑稽用户工号9527
+        有事联系酷安昵称：滑稽用户工号9527/wechat:liyini321
         </van-notice-bar>
       </div>
       <div class="searchInput">
