@@ -1,8 +1,8 @@
 import request from './request.js'
 
-export function addSoftware(data){
+export function addSoftwareApi(data){
     return request({
-        url:'/login',
+        url:'/add',
         method:'post',
         data:data,
     })

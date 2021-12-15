@@ -46,7 +46,7 @@
 </template>
 
 <script>
-import {addSoftware} from "../api/api";
+// import {addSoftware} from "../api/api";
 import softwareJson from "../api/software";
 export default {
   data() {
@@ -60,7 +60,7 @@ export default {
       this.softwareInfo = softwareJson;
     },
     downsoftware(data) {
-     addSoftware({data:data})
+    //  addSoftware({data:data})
     },
     searchList(val) {
     this.softwareInfo = softwareJson.filter((item) => {

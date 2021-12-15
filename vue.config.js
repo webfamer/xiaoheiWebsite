@@ -10,13 +10,14 @@ module.exports = {
   lintOnSave: false,
   devServer: {
     proxy: {
-        '/api': {
-            target: 'http://47.106.181.101:8080',
+        '/softApi': {
+            target: 'http://42.193.174.155',
             changeOrigin: true,
             ws: true,
-            pathRewrite: {
-              '^/api': ''
-            }
+            logLevel:'debug',
+            // pathRewrite: {
+            //   '^/api': ''
+            // }
         }
     }
 },
