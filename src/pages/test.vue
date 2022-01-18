@@ -24,6 +24,7 @@ export default {
         logo: data.img,
         downloadUrl: decodeURI(encodeURI(data.downloanUrl).replace(/(%E2%80%8C)(\w\W)*/g, '$2')),
         description: data.description,
+        detailImg: data.detailImg,
       });
     },
     startAdd() {
